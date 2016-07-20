@@ -11,7 +11,7 @@ var basePath = process.cwd(),
     baseName,
     filePath,
     revealPath = path.resolve(require.resolve('reveal.js'), '..', '..'),
-    theme = 'black',
+    theme = 'white',
     highlightTheme = 'zenburn';
 
 program
